@@ -92,7 +92,7 @@ build.bat              Windows build script
 
 ## Development note
 
-Started as a college mini-project: the console version was written first, and the Windows GUI was then built with AI assistance (Claude) and reviewed and tested by the author.
+Started as a college mini-project: the console version was written first, and the Windows GUI was then built with AI assistance and reviewed and tested by the author.
 
 ## License
 
